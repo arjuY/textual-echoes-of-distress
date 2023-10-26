@@ -34,3 +34,5 @@ RQ1: The analysis shows that there is more percentage of suicidal content in lon
 
 RQ2: The analysis shows that there is more percentage of suicidal content in posts related to depressive disorder followed by bipolar disorder, schizophrenia and anxiety disorder. The sentiment analysis showed that anxiety disorder had most negative sentiment but from the n-gram analysis it was observed that depressive disorder posts had more suicidal content. Hence, it found that there is higher correlation of some disorders like depressive disorder with suicidal content than other disorders like anxiety disorder.
 
+(Refer to the presentation for details on results and future work.)
+
